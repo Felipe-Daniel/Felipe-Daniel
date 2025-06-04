@@ -29,6 +29,6 @@
   
 
  
-  ![Snake animation](https://github.com/Felipe-Daniel/Felipe-Daniel/blob/output/github-contribution-grid-snake.svg)
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Felipe-Daniel/Felipe-Daniel/output/github-contribution-grid-snake.svg" />
  
 </div>
