@@ -1,7 +1,7 @@
 ## Olá! Eu sou Felipe Daniel😄
 
-- 🌱 Estudando Java Spring e Expressjs
-- 🏅 Domino React, React Native, PHP, HTML, CSS e JavaScript
+- 🏅 Consigo automatizar qualquer tarefa
+- 🏅 Dev React + Java com anos de experiência
 
 <div align="center">
   <a href="https://github.com/Felipe-Daniel">
