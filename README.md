@@ -1,8 +1,8 @@
 ### Olá! 👋
 
-Sou **Felipe França**, **Programador Full Stack** na **IdealTechBr**.
+Sou **Felipe França**, Programador **Full Stack** de Salvador, Brasil.
 
-Trabalho com programação desde 2022, tornando-a tanto minha carreira quanto meu hobby. Tenho paixão por **desenvolvimento de software, arquitetura de sistemas e resolução de problemas**, e estou sempre em busca de novos desafios. Embora meu foco principal seja em **BackEnd com Java**, já atuei também com diversas outras tecnologias ao longo da minha trajetória.
+Trabalho com programação desde 2022, tornando-a tanto minha carreira quanto meu hobby. Tenho paixão por **desenvolvimento de software, arquitetura de sistemas e resolução de problemas**, e estou sempre em busca de novos desafios. Embora meu foco principal seja em **Backend com Java**, já atuei também com diversas outras tecnologias ao longo da minha trajetória.
 
 ### Meu trabalho 🔭
 
