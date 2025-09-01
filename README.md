@@ -1,7 +1,7 @@
-## Olá! Eu sou Felipe Daniel😄
+## Olá! Eu sou Felipe Daniel
 
-- 🤖 Consigo automatizar qualquer tarefa.
-- 🏅 Dev React + Java + AWS com anos de experiência.
+- 🤖 Consigo automatizar qualquer tarefa com RabbitMQ e Playwright/Selenium.
+- 🏅 React + Java + AWS com anos de experiência.
 
 <div align="center">
   <a href="https://github.com/Felipe-Daniel">
