@@ -8,7 +8,7 @@ Trabalho com programação desde 2022, tornando-a tanto minha carreira quanto me
 
 - Atuo como **Desenvolvedor Full Cycle** na [IdealTechBr](https://idealtechbr.com.br/) 
 - Atuo como **Frontend React** na [TITAN Computação Inteligente](https://www.titanci.com.br/)
-- Atuo como **Pesquisador** na [UFBA](https://portal.ufba.br/)
+- Atuei como **Pesquisador** na [UFBA](https://portal.ufba.br/)
 - Programo bastante, principalmente em **Java** com RabbitMQ + Automações - [ver repositórios](https://github.com/Felipe-Daniel?tab=repositories)  
 
 ### Contato 📫
